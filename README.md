@@ -16,4 +16,6 @@ pip install open3d
 ```
 
 ### 테스트
-1. 
+
+https://github.com/user-attachments/assets/21b39f1a-fbf3-4072-b48d-a99bd22cd104
+
